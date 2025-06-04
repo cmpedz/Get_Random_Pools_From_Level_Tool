@@ -34,7 +34,7 @@ namespace ConsoleApp1.LevelRandomPools
             {
                 if (item[0].Length == 0) continue;
 
-                string poolName = "Pool " + item[0];                
+                string poolName = "Pool_" + item[0];                
 
                 string uv = item[1];
 

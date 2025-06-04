@@ -29,7 +29,7 @@ namespace ConsoleApp1.LevelRandomPools
 
         public string GetCandyType()
         {
-            return "UV" + uVNumber + StandardName(color) + StandardName(type) + number;
+            return "UV" + uVNumber + StandardName(color) + StandardName(type) + "_" + number;
         }
     }
 }
