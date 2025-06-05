@@ -3,24 +3,26 @@ using BalloonMasterTool.BalloonMatrix;
 using ConsoleApp1.LevelRandomPools;
 using Newtonsoft.Json;
 using OfficeOpenXml;
+using System.Net;
 
 namespace BalloonMasterTool
 {
     public class Tool
     {
-        private const string EXCEL_PATH = "C:\\Users\\Admin\\Downloads\\Data level 2.xlsx";
+
+        private const string URL_PATH = "https://docs.google.com/spreadsheets/d/1iC7qzxn82TDZ9HdFpnATfLpBo00bEanfccgwTS01Di4/edit?gid=897965740#gid=897965740";
 
         private const string RESULT_FOLDER = "Level";
 
         private const string JSON_FILE_NAME = "Level";
         static void Main(string[] args)
         {
-            
+
             Console.Write("Design for level : ");
             string levelIndex = Console.ReadLine();
 
             //read data from excel 
-            ExcelManager excelManager = new ExcelManager(EXCEL_PATH);
+            GoogleSheetManager excelManager = new GoogleSheetManager(URL_PATH);
 
             Console.WriteLine("check sheet get : " + int.Parse(levelIndex));
 
