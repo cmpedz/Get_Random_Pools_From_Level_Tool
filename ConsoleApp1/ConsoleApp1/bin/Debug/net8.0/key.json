@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "candymastertool",
+  "private_key_id": "69b07a873e91b8107ed6a6908b265fe792fd1938",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDWG1J1CxYdeXle\nV2Obe0ieRfowMAjaAyQBP3V0O35VFhLSOTOCjqaYg/aPJS+QPde+GLN0PomCtxzv\n/xIpxDXYJKtsCVK8G08zaq7K8xZutvi+zP+oadbC8NNqMG92lv0cAQXIYYvH0zTu\nsW7GblnQvFA4DxNnGUUyds5c3dw/gRVHZJzG+qptoir5RqQkGdofrV4/Dr3GGwCg\nSp3r4ewj+d+uHP5RYQMPzi8alwbVqIBMCJUgKDaXnUvcHfT3/bIjdVcvhHbviHAc\nMWDom5iicgkZRtA/GnIHQwZNxzfAQDI/L0W3QVgOvLix1HJCMzDIqSwzl6HG6IDy\n9fSBaz9tAgMBAAECggEADgFliHB8NtteXBR9WItc+bV8IzDRM2mnLkm3Zi4KGojC\nHGxPeUfZj/p54208SkQxW6cD/iOlHR7bTruxtXe3SfdEG2IUvmdO6/8bhf0Wx5FC\nfkCsrJiXytK0Easvb2N7FRzgAvaWjTC8sqx6oZJQX74hxTj/POxDQYTSBPMiWCj7\n1juZlzI0sxI0vtGQjrt5+8NHKIQOLqwbRarXteLgoVB3RZMN5SIfAPbor4RIv1aM\nTC1L6Nn3GqiDDSEgly9Xqbku43JM1lTfyKXN02NyNjSIz5+M9olcaNJj4hjcURaz\n539J7WdUalmKF4oRuT8uGMbbNdkvgecMshK58s9hBQKBgQDwrNx65AeCvllzQig3\nHn+EhfTuP0XBavTkLMSt7fX8qJLYcWsg+MsXvKS+VZk/Au+lNSJRSlG3z7dyfBcu\n7pd/imKHhoNqnNeu+J4rfYrDLW/RpHHHlbtwLIV6UyhAOTnUqKkr5/HPbXGg9Ppg\nY/+NQict8165vkiaRnv06ii1iwKBgQDjvWEmFCrgMFWv1NavaF7BX1zmAlcRF/On\nqVHnHEga8YOJiKIhpjb2qmlMFCz/6yDIS6cFbIHhkphLz68CNhICC53pXCObPnbS\n1+FoWA9dY+KvmCl/AynsZ9wjgfOPFpReiA+o6AR7c7uwi3UikcWQD462nCkPgBT3\noCZlQRIt5wKBgHb+0MhGBFylZq6xEBcokh3g6Zf+WqvmCQzkAZ6JYC0639f6Q+B6\nglfLIp0kz28zMW+6lKwilcLPBcGqDwBaYTdjIZImdMV6pL1TGUkhekFELtw1dTgc\nFR/CM4CmqukOIkS9217lAE7xqtPNLBoKdyjNg3eZs8UciuMUZGdUeyo/AoGACbLb\n+0oqlUeZrpZK2keAmY2dIDKDULgLaV19nnEG5RbZ+jZ2aSZx+slBGLtXO0LhL4aB\nQ2rekSO0Fq5ujpKM68dg3zpMTeU4HDyTXeU6KkkBs2awhbc1xtqZdm2nWLWmdewn\ndpMC9dr06EzYHTPGDR+MfVxjJ0TWH8GTQQanZosCgYEAxxKJX6iRzrrA9u9sUvws\nBoxCQvcug27ADjdPQyyjjBSMZou13TcOirv23P4LzjHCJCm2wF4v9D/HZCgVkQ1r\njjiG5gYzWdO+OBxalSWVBGRVhMv30JV9YKwAwJ1BYXeKSlsnNI/gih+XPk/exKcF\nr05DkwoQOwFwbJzInZooeac=\n-----END PRIVATE KEY-----\n",
+  "client_email": "hungmnk@candymastertool.iam.gserviceaccount.com",
+  "client_id": "109005658853422192660",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/hungmnk%40candymastertool.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
